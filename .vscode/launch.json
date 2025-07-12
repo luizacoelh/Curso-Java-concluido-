@@ -2,6 +2,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "v4",
+            "request": "launch",
+            "mainClass": "v4",
+            "projectName": "YTacademia devs_7376ac4d"
+        },
+        {
+            "type": "java",
+            "name": "v1aloresp_variaveis",
+            "request": "launch",
+            "mainClass": "v1aloresp_variaveis",
+            "projectName": "YTacademia devs_7376ac4d"
+        },
+        {
+            "type": "java",
+            "name": "v3",
+            "request": "launch",
+            "mainClass": "v3",
+            "projectName": "YTacademia devs_7376ac4d"
+        },
+        {
+            "type": "java",
+            "name": "v2",
+            "request": "launch",
+            "mainClass": "v2",
+            "projectName": "YTacademia devs_7376ac4d"
+        },
+        {
+            "type": "java",
+            "name": "valoresp_variaveis",
+            "request": "launch",
+            "mainClass": "valoresp_variaveis",
+            "projectName": "YTacademia devs_7376ac4d"
+        },
+        {
+            "type": "java",
             "name": "concatenação",
             "request": "launch",
             "mainClass": "concatenação",
