@@ -2,6 +2,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "imparpar",
+            "request": "launch",
+            "mainClass": "imparpar",
+            "projectName": "YTacademia devs_7376ac4d"
+        },
+        {
+            "type": "java",
+            "name": "incremento",
+            "request": "launch",
+            "mainClass": "incremento",
+            "projectName": "YTacademia devs_7376ac4d"
+        },
+        {
+            "type": "java",
+            "name": "módulo",
+            "request": "launch",
+            "mainClass": "módulo",
+            "projectName": "YTacademia devs_7376ac4d"
+        },
+        {
+            "type": "java",
+            "name": "divisão",
+            "request": "launch",
+            "mainClass": "divisão",
+            "projectName": "YTacademia devs_7376ac4d"
+        },
+        {
+            "type": "java",
+            "name": "multiplicação",
+            "request": "launch",
+            "mainClass": "multiplicação",
+            "projectName": "YTacademia devs_7376ac4d"
+        },
+        {
+            "type": "java",
+            "name": "subtração",
+            "request": "launch",
+            "mainClass": "subtração",
+            "projectName": "YTacademia devs_7376ac4d"
+        },
+        {
+            "type": "java",
+            "name": "soma",
+            "request": "launch",
+            "mainClass": "soma",
+            "projectName": "YTacademia devs_7376ac4d"
+        },
+        {
+            "type": "java",
             "name": "v4",
             "request": "launch",
             "mainClass": "v4",
