@@ -2,6 +2,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "A",
+            "request": "launch",
+            "mainClass": "A",
+            "projectName": "YTacademia devs_7376ac4d"
+        },
+        {
+            "type": "java",
+            "name": "Abs",
+            "request": "launch",
+            "mainClass": "Abs",
+            "projectName": "YTacademia devs_7376ac4d"
+        },
+        {
+            "type": "java",
+            "name": "mathc",
+            "request": "launch",
+            "mainClass": "mathc",
+            "projectName": "YTacademia devs_7376ac4d"
+        },
+        {
+            "type": "java",
+            "name": "math",
+            "request": "launch",
+            "mainClass": "math",
+            "projectName": "YTacademia devs_7376ac4d"
+        },
+        {
+            "type": "java",
+            "name": "precedencias",
+            "request": "launch",
+            "mainClass": "precedencias",
+            "projectName": "YTacademia devs_7376ac4d"
+        },
+        {
+            "type": "java",
             "name": "imparpar",
             "request": "launch",
             "mainClass": "imparpar",
