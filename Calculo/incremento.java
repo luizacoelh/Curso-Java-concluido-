@@ -22,5 +22,15 @@ public class incremento {
         JOptionPane.showMessageDialog(null, contador, "Matemática", JOptionPane.INFORMATION_MESSAGE);
         contador /= 25;
         JOptionPane.showMessageDialog(null, contador, "Matemática", JOptionPane.INFORMATION_MESSAGE);
+
+        JOptionPane.showMessageDialog(null, contador, "Matemática", JOptionPane.INFORMATION_MESSAGE);
+        ++ contador; 
+        //++contador 
+        // contador = contador + 1
+        //imprimir o novo valor do contador 
+
+        // contador++ 
+        // imprimir o valor antigo 
+        // contador = contador + 1
     }
 }
