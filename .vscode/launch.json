@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "dado",
+            "request": "launch",
+            "mainClass": "dado",
+            "projectName": "YTacademia devs_7376ac4d"
+        },
+        {
+            "type": "java",
+            "name": "aleatorion",
+            "request": "launch",
+            "mainClass": "aleatorion",
+            "projectName": "YTacademia devs_7376ac4d"
+        },
+        {
+            "type": "java",
             "name": "A",
             "request": "launch",
             "mainClass": "A",
