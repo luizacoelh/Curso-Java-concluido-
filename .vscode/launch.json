@@ -2,6 +2,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Condicional",
+            "request": "launch",
+            "mainClass": "Condicional",
+            "projectName": "YTacademia devs_7376ac4d"
+        },
+        {
+            "type": "java",
+            "name": "Exemplos",
+            "request": "launch",
+            "mainClass": "Exemplos",
+            "projectName": "YTacademia devs_7376ac4d"
+        },
+        {
+            "type": "java",
+            "name": "Naologico",
+            "request": "launch",
+            "mainClass": "Naologico",
+            "projectName": "YTacademia devs_7376ac4d"
+        },
+        {
+            "type": "java",
+            "name": "Oulogico",
+            "request": "launch",
+            "mainClass": "Oulogico",
+            "projectName": "YTacademia devs_7376ac4d"
+        },
+        {
+            "type": "java",
+            "name": "Elogico",
+            "request": "launch",
+            "mainClass": "Elogico",
+            "projectName": "YTacademia devs_7376ac4d"
+        },
+        {
+            "type": "java",
+            "name": "Conparacao",
+            "request": "launch",
+            "mainClass": "Conparacao",
+            "projectName": "YTacademia devs_7376ac4d"
+        },
+        {
+            "type": "java",
+            "name": "Comparacao",
+            "request": "launch",
+            "mainClass": "Comparacao",
+            "projectName": "YTacademia devs_7376ac4d"
+        },
+        {
+            "type": "java",
             "name": "dado",
             "request": "launch",
             "mainClass": "dado",
