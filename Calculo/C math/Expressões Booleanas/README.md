@@ -5,3 +5,4 @@
 ·Prefira `if (condicao)` em vez de `if (condicao == true)`
 
 ·Para negação, use `if (!condicao)` em vez de `if (condicao == false)`
+ 

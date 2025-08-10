@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Condicional2",
+            "request": "launch",
+            "mainClass": "Condicional2",
+            "projectName": "YTacademia devs_7376ac4d"
+        },
+        {
+            "type": "java",
             "name": "Condicional",
             "request": "launch",
             "mainClass": "Condicional",
