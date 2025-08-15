@@ -1,6 +1,27 @@
 {
     "configurations": [
         {
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "chrome",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "java",
+            "name": "Eb",
+            "request": "launch",
+            "mainClass": "Eb",
+            "projectName": "YTacademia devs_7376ac4d"
+        },
+        {
+            "type": "java",
+            "name": "EB",
+            "request": "launch",
+            "mainClass": "EB",
+            "projectName": "YTacademia devs_7376ac4d"
+        },
+        {
             "type": "java",
             "name": "App2",
             "request": "launch",
