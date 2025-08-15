@@ -1,6 +1,34 @@
 {
     "configurations": [
         {
+            "type": "java",
+            "name": "DoWhileEx",
+            "request": "launch",
+            "mainClass": "DoWhileEx",
+            "projectName": "YTacademia devs_7376ac4d"
+        },
+        {
+            "type": "java",
+            "name": "WhileEx",
+            "request": "launch",
+            "mainClass": "WhileEx",
+            "projectName": "YTacademia devs_7376ac4d"
+        },
+        {
+            "type": "java",
+            "name": "ForEx",
+            "request": "launch",
+            "mainClass": "ForEx",
+            "projectName": "YTacademia devs_7376ac4d"
+        },
+        {
+            "type": "java",
+            "name": "Fex",
+            "request": "launch",
+            "mainClass": "Fex",
+            "projectName": "YTacademia devs_7376ac4d"
+        },
+        {
             "name": "Attach to Chrome",
             "port": 9222,
             "request": "attach",
