@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExPratFor",
+            "request": "launch",
+            "mainClass": "ExPratFor",
+            "projectName": "YTacademia devs_7376ac4d"
+        },
+        {
+            "type": "java",
+            "name": "ExPrat",
+            "request": "launch",
+            "mainClass": "ExPrat",
+            "projectName": "YTacademia devs_7376ac4d"
+        },
+        {
+            "type": "java",
+            "name": "ExPratFrase",
+            "request": "launch",
+            "mainClass": "ExPratFrase",
+            "projectName": "YTacademia devs_7376ac4d"
+        },
+        {
+            "type": "java",
             "name": "DoWhileEx",
             "request": "launch",
             "mainClass": "DoWhileEx",
