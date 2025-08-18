@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Opcoes",
+            "request": "launch",
+            "mainClass": "Vetores.Opcoes",
+            "projectName": "YTacademia devs_7376ac4d"
+        },
+        {
+            "type": "java",
             "name": "ExcomNum",
             "request": "launch",
             "mainClass": "Vetores.ExcomNum",
