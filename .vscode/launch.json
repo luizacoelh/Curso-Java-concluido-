@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "Vetores.Array",
+            "projectName": "YTacademia devs_7376ac4d"
+        },
+        {
+            "type": "java",
             "name": "ExPratFor",
             "request": "launch",
             "mainClass": "ExPratFor",
