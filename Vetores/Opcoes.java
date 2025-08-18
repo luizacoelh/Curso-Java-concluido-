@@ -23,7 +23,15 @@ public class Opcoes {
                 opcoes,
                 opcoes[0]
             );
-            System.out.println("Opção escolhida" + opcaoEscolhida);
+          if (opcaoEscolhida != 3){
+            String mensagem = "Você assistiu " + opcoes[opcaoEscolhida];
+            JOptionPane.showMessageDialog(
+                null,
+                mensagem,
+                "Assistindo",
+                JOptionPane.INFORMATION_MESSAGE
+            );
+          } 
         }
     }
 }
